@@ -10,10 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>banupullaiahnaidu@mail.smu.edu</p>
+    <p>Mckinney, TX</p>
 
 ---
 
-Hi! Welcome to Banu's Website. Here I will be posting all the projects I work on, as part of my journey towards getting a Master Degree in Data Science.
+Hi! Welcome to Banu's Website. 
+
+Here I will be posting all the projects I work on, as part of my journey towards getting a Master Degree in Data Science.
 
 Stay Tuned :)
 
