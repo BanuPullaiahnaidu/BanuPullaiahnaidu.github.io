@@ -2,7 +2,7 @@
 layout: page
 title: Case Study 1
 description: Beers and Breweries
-img: assets/img/BnB
+img: assets/img/BnB.png
 importance: 1
 category: school
 ---
