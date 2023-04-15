@@ -20,4 +20,4 @@ Here I will be posting projects I work on, as part of my journey towards getting
 
 Stay Tuned :)
 
-<a href='#'>www.linkedin.com/in/banu-naidu-8780522</a>
+<a href = "www.linkedin.com/in/banu-naidu-8780522" target="_blank">Linkedin Profile</a>
