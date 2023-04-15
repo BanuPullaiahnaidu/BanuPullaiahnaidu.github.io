@@ -6,6 +6,7 @@ img: assets/img/BnB.png
 importance: 1
 category: school
 ---
+
 <!DOCTYPE html>
 
 <html>
