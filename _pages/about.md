@@ -14,9 +14,12 @@ profile:
 
 ---
 
-Hi! Welcome to Banu's Website. 
+Hello and Welcome to Banu's Website!
 
-Here I will be posting projects I work on, as part of my journey towards getting a Master Degree in Data Science.
+Here I will be posting projects I work on, as part of my journey towards getting a Master's Degree in Data Science.
 
 Stay Tuned :)
+
+
+<a href="https://www.linkedin.com/in/banu-naidu-8780522" target="_blank">Linkedin Profile</a>
 
